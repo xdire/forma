@@ -1,4 +1,4 @@
-<?php namespace App\System\DB;
+<?php namespace Xdire\Forma;
 
 /**
  * Anton Repin <ar@xdire.io>
