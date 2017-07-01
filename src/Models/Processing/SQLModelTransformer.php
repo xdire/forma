@@ -1,4 +1,4 @@
-<?php namespace Xdire\Forma\Processing;
+<?php namespace Xdire\Forma\Models\Processing;
 
 /**
  * Anton Repin <ar@xdire.io>
