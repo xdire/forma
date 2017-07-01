@@ -2,7 +2,6 @@
 
 use Xdire\Forma\Exceptions\DBOConfigurationException;
 use Xdire\Forma\Interfaces\DBOArrangerInterface;
-use Xdire\Forma\Processing\SQLModelTransformer;
 
 /**
  * Anton Repin <ar@xdire.io>
